@@ -1,0 +1,13 @@
+.item-block{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.item-block img{
+  width: 350px
+}
+.item-block .text-block{
+  width: 40%;
+}
